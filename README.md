@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=40&duration=3000&pause=2000&color=FFFFFF&background=3E2483&center=true&vCenter=true&random=false&width=1080&height=100&lines=Ol%C3%A1!+;Sou+Sophia+Lima%F0%9F%98%8A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=40&duration=3000&pause=2000&color=FFFFFF&background=00028D8D&center=true&vCenter=true&width=1080&height=100&lines=Ol%C3%A1!;Sou+Sophia+Lima+!)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="400">
@@ -15,31 +15,31 @@ Você pode acessar meus repositórios com conteúdos de cursos que faço para ap
 ##
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=Sophia-lsts&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)">
+   <img src="https://github-readme-stats.vercel.app/api?username=sophialsts&theme=transparent&show_icons=true&hide_border=false&count_private=false)">
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sophia-lsts&layout=compact&theme=tokyonight"(https://github.com/anuraghazra/github-readme-stats)>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sophialsts&layout=compact&theme=transparent"(https://github.com/anuraghazra/github-readme-stats)>
 </p>
 
 ### <p align="center"> Estudando </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" > 
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" >
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" >
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" >
-    <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" >
-    
+    <img alt="gitBadge" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img alt="gitBadge" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img alt="gitBadge" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <img alt="gitBadge" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+    <img alt="gitBadge" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img alt="gitBadge" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img alt="gitBadge" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </p>
 
 ### <p align="center"> Algumas ferramentas que utilizo </p>
 
 <p align="center"> 
-    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" >
-    <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" >
-    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" >
-    <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white" >
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" >
+    <img alt="gitBadge" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
+    <img alt="gitBadge" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+    <img alt="gitBadge" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+    <img alt="gitBadge" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </p>
 
