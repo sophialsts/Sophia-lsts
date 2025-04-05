@@ -11,8 +11,18 @@ Sou estudante de Graduação em Sistemas de Informação na Universidade do Esta
 <p align="center">
 Você pode acessar meus repositórios com conteúdos de cursos que faço para aprimorar meus conhecimentos e estudos.
 </p>
-  
-##
+
+### <p align="center"> English version </p>
+
+<p align="center">
+I'm an Information Systems undergraduate at the State University of Bahia (UNEB), where I’ve been developing skills such as programming logic, especially using the C language, and working with Python as part of a scientific research project. Outside the university, I’ve started studying object-oriented programming in C++ and building some small frontend projects using HTML, CSS, and JavaScript, while beginning to explore the React framework.
+</p>
+
+<p align="center">
+  You can access my repositories to find content from courses I've taken to deepen my knowledge and support my learning journey.
+</p>
+
+<br>
 
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=sophialsts&theme=transparent&show_icons=true&hide_border=false&count_private=false)">
